@@ -10,6 +10,8 @@
 6)	MS Visual Studio 2023
 7)	C# για scripting
 8)	GitHub για φιλοξενία του repository της εφαρμογής
-9)	Smartphone Galaxy A14 SM-A145R/DSN με Android 15 (One UI 7.0), API 35, kernel 6.6.56
+
+Για την σχεδίαση της εφαρμογής χρησιμοποιήθηκε το Smartphone Galaxy A14 SM-A145R/DSN με Android 15 (One UI 7.0), API 35, kernel 6.6.56. Στο ίδιο smartphone δοκιμάστηκε με επιτυχία ένα λειτουργικό πρωτότυπο της εφαρμογής.  
+
 
 
